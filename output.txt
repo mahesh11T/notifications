@@ -9,3 +9,4 @@
 2023-12-01 15:05:50::no of bad packet found in 2min::36
 2023-12-01 15:06:00::no of bad packet found in 2min::20
 2023-12-01 15:06:10::no of bad packet found in 2min::32
+2023-12-01 15:06:20::no of bad packet found in 2min::47
